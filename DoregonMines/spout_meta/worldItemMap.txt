@@ -1,0 +1,6 @@
+1026:MoreMaterials.CEP_RPG_EspOres.ore_zafiro
+1027:MoreMaterials.CEP_RPG_EspOres.ore_plata
+1024:MoreMaterials.CEP_RPG_EspOres.ore_cobre
+1028:MoreMaterials.CEP_RPG_EspOres.ore_titanio
+1025:MoreMaterials.CEP_RPG_EspOres.ore_ruby
+1029:MoreMaterials.CEP_RPG_EspOres.ore_bronce
